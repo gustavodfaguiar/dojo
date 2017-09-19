@@ -12,3 +12,10 @@ Você deve desenvolver um programa que jogue uma partida de batalha naval entre 
  - Exibir todos os movimentos dos jogadores, informando se os ataques foram bem sucedidos ou não;
  - Informar quando um navio é atingido e quando ele é afundado;
  - Exibir ao final do jogo um mapa final do posicionamento final dos navios dos jogadores.
+
+
+Pessoas presentes no DOJO:
+ - [Henrique Suenaga](https://github.com/henriquesuenaga88)
+ - [Ricardo Ruwer](https://github.com/ricardoruwer)
+ - [Andre Mendes](https://github.com/andre-mendes)
+ - [Gustavo Aguiar](https://github.com/gusttavoaguiarr)
